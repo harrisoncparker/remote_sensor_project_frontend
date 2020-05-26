@@ -1,6 +1,6 @@
 ## This is the beginning
 
-A message from [harrisoncparker](https://github.com/harrisoncparker) 👀
+A message from [harrisoncparker](https://github.com/harrisoncparker) to collaborators 👀 
 
 I spent a while playing around with three JS and setting up a project that is both _simple_ and _modern_.
 
